@@ -44,6 +44,3 @@
 //= require plugins/url.min.js
 //= require plugins/video.min.js
 //= require_tree .
-document.addEventListener('turbolinks:load', () => {
-  $('#project_description').froalaEditor();
-});
