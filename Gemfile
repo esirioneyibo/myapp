@@ -61,6 +61,7 @@ group :development do
   #gem 'guard-livereload'
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
+  #gem 'listen', '~> 3.0'
 end
 
 group :test do
@@ -79,4 +80,4 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'wdm'
+
