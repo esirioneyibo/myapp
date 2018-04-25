@@ -58,7 +58,7 @@ group :development do
   gem 'spring-watcher-listen'
   gem 'better_errors'
   #gem 'guard'
-  #gem 'guard-livereload'
+  gem 'guard-livereload'
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
   #gem 'listen', '~> 3.0'
